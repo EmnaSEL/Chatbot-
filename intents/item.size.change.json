@@ -1,0 +1,89 @@
+{
+  "id": "1207673d-270f-41bc-aecd-004e968513dd",
+  "name": "item.size.change",
+  "auto": true,
+  "contexts": [
+    "item"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "item",
+          "lifespan": 3
+        },
+        {
+          "name": "item-confirm",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "98fa6255-6db0-45e4-9927-8c746ce93e95",
+          "name": "size",
+          "required": false,
+          "dataType": "@pizza-size",
+          "value": "$size",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dc69b67d-fee9-47d5-8902-a6cf66471e66",
+          "name": "type",
+          "required": false,
+          "dataType": "@pizza-type",
+          "value": "$type",
+          "defaultValue": "#item.type",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2dc27732-ef77-407f-9835-989966c29e29",
+          "name": "amount",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$amount",
+          "defaultValue": "#item.amount",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "sure your order is now changed to $amount  $size $type , does that sound good ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

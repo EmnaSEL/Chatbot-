@@ -1,0 +1,82 @@
+[
+  {
+    "id": "8aef13c8-5fa3-4a1a-b7fb-cb9340e038bd",
+    "data": [
+      {
+        "text": "your pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "sizes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00a11ddc-f9ed-4d8a-b5db-164297d38f59",
+    "data": [
+      {
+        "text": "what pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "sizes",
+        "userDefined": false
+      },
+      {
+        "text": " do you offers?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60bc9ccc-39cd-4e22-b650-665ed44ee4d8",
+    "data": [
+      {
+        "text": "what is your pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "size",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "483f9129-1800-4eff-87fc-22a916a283be",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "sizes",
+        "userDefined": false
+      },
+      {
+        "text": " your pizza are?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

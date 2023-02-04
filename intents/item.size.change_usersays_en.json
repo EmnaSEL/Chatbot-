@@ -1,0 +1,73 @@
+[
+  {
+    "id": "39cd13a6-962a-49b7-8b02-77838b09808b",
+    "data": [
+      {
+        "text": "change to ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "meta": "@pizza-size",
+        "alias": "size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4157cbbe-677a-41c8-9cde-c9bf477940b4",
+    "data": [
+      {
+        "text": "actually i want a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@pizza-size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "neptune",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53854f7a-3719-4c7b-b548-0b0b492eb020",
+    "data": [
+      {
+        "text": "wait can i get it in ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "meta": "@pizza-size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,255 @@
+[
+  {
+    "id": "0ce2b638-3625-4544-9db5-daf4e4c795e8",
+    "data": [
+      {
+        "text": "medium",
+        "meta": "@pizza-size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "margherita",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9369c9a2-da7b-4d65-ab46-7015ad7a0cc1",
+    "data": [
+      {
+        "text": "medium",
+        "meta": "@pizza-size",
+        "alias": "size",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa2d292f-6321-4fb5-bfe5-7b00a7c34cda",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@pizza-size",
+        "alias": "size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfda5715-96cd-43a5-a70b-01c8a42649bc",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "M",
+        "meta": "@pizza-size",
+        "alias": "size",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ba111be-90d5-430b-8b89-d3b037543c39",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "neptune",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "s",
+        "meta": "@pizza-size",
+        "alias": "size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e353e1ad-6bfc-4cf2-b2f1-7e172edd4ba4",
+    "data": [
+      {
+        "text": "i want a ",
+        "userDefined": false
+      },
+      {
+        "text": "4 saison",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "xl",
+        "meta": "@pizza-size",
+        "alias": "size",
+        "userDefined": false
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d64e9cc-cb81-41d0-9210-d93ecf07de20",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "an",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "XL",
+        "meta": "@pizza-size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4efb45a3-bb57-4f3f-bf43-c7abf70b31df",
+    "data": [
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "S",
+        "meta": "@pizza-size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be60180d-e022-43d3-931e-d9d8e23e54da",
+    "data": [
+      {
+        "text": "i\u0027d like ",
+        "userDefined": false
+      },
+      {
+        "text": "three",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "meta": "@pizza-size",
+        "alias": "size",
+        "userDefined": true
+      },
+      {
+        "text": " pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

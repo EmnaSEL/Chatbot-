@@ -1,0 +1,80 @@
+{
+  "id": "379fba2f-5bbc-47bf-9ba3-485dd59b3ef3",
+  "name": "item.confirm.yes",
+  "auto": true,
+  "contexts": [
+    "item-confirm"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c4ded0c8-674c-4727-a620-d8723457b1a8",
+          "name": "size",
+          "required": false,
+          "dataType": "@pizza-size",
+          "value": "$size",
+          "defaultValue": "#item.size",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0b65dce7-3bd5-478e-98ed-547c7b0f78a9",
+          "name": "amount",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$amount",
+          "defaultValue": "#item.amount",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "63a533b5-03d8-467c-b72c-887eaf1d2362",
+          "name": "type",
+          "required": false,
+          "dataType": "@pizza-type",
+          "value": "$type",
+          "defaultValue": "#item.type",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great , Your ordered $amount pizza $type $size and it\u0027s pending delivery. Thanks for visiting us :)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

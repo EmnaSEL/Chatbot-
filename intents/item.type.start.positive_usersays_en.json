@@ -1,0 +1,159 @@
+[
+  {
+    "id": "89e8d177-ba6e-41c2-9cf4-b9d845fd1d1b",
+    "data": [
+      {
+        "text": "do you offer ",
+        "userDefined": false
+      },
+      {
+        "text": "neptune",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91ca81db-3797-4ebf-a22a-ad05b4b7f3be",
+    "data": [
+      {
+        "text": "do you offer ",
+        "userDefined": false
+      },
+      {
+        "text": "vegeterian",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8f30034-4569-4751-9e5c-48bea99e1605",
+    "data": [
+      {
+        "text": "do you offer ",
+        "userDefined": false
+      },
+      {
+        "text": "pepperoni",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d55ba031-e223-4f19-bfb5-5ed5b89544ca",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "vegeterian",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0e6dd64-e9db-4b6e-8bd1-cccc2c4c839f",
+    "data": [
+      {
+        "text": "is there ",
+        "userDefined": false
+      },
+      {
+        "text": "neptune",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83391948-28b2-400b-b727-226722f2e7fa",
+    "data": [
+      {
+        "text": "famma ",
+        "userDefined": false
+      },
+      {
+        "text": "margerita",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "546f1fa7-75b1-44bd-b7b4-9e83b08f00e7",
+    "data": [
+      {
+        "text": "do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "neptune",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

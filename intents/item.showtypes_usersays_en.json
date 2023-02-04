@@ -1,0 +1,54 @@
+[
+  {
+    "id": "f83385ee-86b0-4803-8f65-2002417540bb",
+    "data": [
+      {
+        "text": "your offers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a3b294b-65ce-418d-b1e8-b333f65b5a59",
+    "data": [
+      {
+        "text": "pizza type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cd01f00-6c29-4eba-bc05-7e5a9dd1e9f2",
+    "data": [
+      {
+        "text": "what pizza type do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f6feafb-ac6c-40f8-a857-a1361d4bf797",
+    "data": [
+      {
+        "text": "what do you offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

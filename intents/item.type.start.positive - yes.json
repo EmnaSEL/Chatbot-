@@ -1,0 +1,103 @@
+{
+  "id": "2218b67d-7ead-452f-8548-53672c3c418c",
+  "parentId": "7e946120-819a-4919-90e7-9e3c80ddf91f",
+  "rootParentId": "7e946120-819a-4919-90e7-9e3c80ddf91f",
+  "name": "item.type.start.positive - yes",
+  "auto": true,
+  "contexts": [
+    "item",
+    "itemtypestartpositive-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "itemtypestartpositive.itemtypestartpositive-yes",
+      "affectedContexts": [
+        {
+          "name": "item-confirm",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0e3ddf2b-55e9-428a-adeb-26075b6cbddf",
+          "name": "type",
+          "required": true,
+          "dataType": "@pizza-type",
+          "value": "$type",
+          "defaultValue": "#item.type",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what size do you want your pizza?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5df27601-c546-4928-ab48-21a518f3201e",
+          "name": "size",
+          "required": true,
+          "dataType": "@pizza-size",
+          "value": "$size",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what size do you want your $type ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "825d0220-a0c9-49f9-9529-3e0f4280c301",
+          "name": "amount",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$amount",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "how many $size $type  do you want ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "So it\u0027s $amount $type size of $size, should i confirm your order ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

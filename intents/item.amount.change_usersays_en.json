@@ -1,0 +1,112 @@
+[
+  {
+    "id": "e383534f-8819-42ea-9e76-492bdfd5854c",
+    "data": [
+      {
+        "text": "make them ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": false
+      },
+      {
+        "text": " pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "neptune",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@pizza-size",
+        "alias": "size",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f0d1b76-6434-4771-9a56-160d77d60d75",
+    "data": [
+      {
+        "text": "make them ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "141e8dd8-f20a-4482-a0ae-7c971b79cb77",
+    "data": [
+      {
+        "text": "make them ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": false
+      },
+      {
+        "text": " pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "funghi",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41351d38-8936-4c4e-839f-2f7ac046c3f1",
+    "data": [
+      {
+        "text": "make them ",
+        "userDefined": false
+      },
+      {
+        "text": "three",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

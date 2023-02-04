@@ -1,0 +1,102 @@
+{
+  "id": "89fa8efa-eceb-4c02-8870-b4fb89c858f6",
+  "name": "item.start.generic",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "item",
+          "lifespan": 5
+        },
+        {
+          "name": "item-confirm",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3688a3f6-e0ed-4fbf-a97f-6091fd9e478b",
+          "name": "type",
+          "required": true,
+          "dataType": "@pizza-type",
+          "value": "$type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what type do you want your pizza ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "67c575e4-321e-43ee-b148-579e40291d53",
+          "name": "size",
+          "required": true,
+          "dataType": "@pizza-size",
+          "value": "$size",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "what size do you want your $type"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4fe0923a-58a8-40be-81de-bae76e862270",
+          "name": "amount",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$amount",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "how many $type $size do you want ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great , that\u0027s $amount $type $size , mrigla ? confirm ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

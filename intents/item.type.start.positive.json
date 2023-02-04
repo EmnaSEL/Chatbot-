@@ -1,0 +1,59 @@
+{
+  "id": "7e946120-819a-4919-90e7-9e3c80ddf91f",
+  "name": "item.type.start.positive",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "item",
+          "lifespan": 5
+        },
+        {
+          "name": "itemtypestartpositive-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "96ad1d0c-990b-4c73-b3a2-e5bad65c3b7b",
+          "name": "type",
+          "required": true,
+          "dataType": "@pizza-type",
+          "value": "$type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "yes we have $type , wanna order ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

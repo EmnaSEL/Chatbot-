@@ -1,0 +1,176 @@
+[
+  {
+    "id": "79bacf8e-4044-4380-bd5f-171d86efe7bc",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "four",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "turc",
+        "meta": "@anti-pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@pizza-size",
+        "alias": "pizza-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f83f7674-d384-4a79-9497-3dd3de670dbe",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "four",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "salami",
+        "meta": "@anti-pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@pizza-size",
+        "alias": "pizza-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bbc969d-99fc-4ccf-a390-bbd2fdcee6bf",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "four",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "turc",
+        "meta": "@anti-pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@pizza-size",
+        "alias": "pizza-size",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ae8e6ce-5a90-40b5-935e-8b342b3ef960",
+    "data": [
+      {
+        "text": "famma ",
+        "userDefined": false
+      },
+      {
+        "text": "shawarma",
+        "meta": "@anti-pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6122a3eb-2c98-49f4-8fbc-82f6d61fbdd0",
+    "data": [
+      {
+        "text": "salami",
+        "meta": "@anti-pizza-type",
+        "alias": "type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abefe705-c3ef-486b-9cd7-84f4fa13434f",
+    "data": [
+      {
+        "text": "do you offer pizza ",
+        "userDefined": false
+      },
+      {
+        "text": "turc",
+        "meta": "@anti-pizza-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

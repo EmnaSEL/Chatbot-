@@ -1,0 +1,46 @@
+[
+  {
+    "value": "10\u0027",
+    "synonyms": [
+      "10\u0027",
+      "10 inch",
+      "S",
+      "size S",
+      "small",
+      "ten inch",
+      "mini"
+    ]
+  },
+  {
+    "value": "12\u0027",
+    "synonyms": [
+      "12\u0027",
+      "12 inch",
+      "M",
+      "medium",
+      "normal",
+      "size M",
+      "standard",
+      "moyenne"
+    ]
+  },
+  {
+    "value": "14\u0027",
+    "synonyms": [
+      "14\u0027",
+      "L",
+      "large",
+      "size L",
+      "max"
+    ]
+  },
+  {
+    "value": "16\u0027",
+    "synonyms": [
+      "16\u0027",
+      "XL",
+      "extra large",
+      "size XL"
+    ]
+  }
+]

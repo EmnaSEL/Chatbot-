@@ -1,0 +1,40 @@
+{
+  "id": "7ac608bd-92ba-40df-aba8-f3357cc85ede",
+  "parentId": "7e946120-819a-4919-90e7-9e3c80ddf91f",
+  "rootParentId": "7e946120-819a-4919-90e7-9e3c80ddf91f",
+  "name": "item.type.start.positive.no",
+  "auto": true,
+  "contexts": [
+    "item",
+    "itemtypestartpositive-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No worries what else would you like to order?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

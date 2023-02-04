@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Funghi",
+    "synonyms": [
+      "Funghi",
+      "mushroom"
+    ]
+  },
+  {
+    "value": "Hawaii",
+    "synonyms": [
+      "Hawaii"
+    ]
+  },
+  {
+    "value": "Margherita",
+    "synonyms": [
+      "Margherita",
+      "margerita",
+      "margarita"
+    ]
+  },
+  {
+    "value": "Pepperoni",
+    "synonyms": [
+      "Pepperoni"
+    ]
+  },
+  {
+    "value": "Vegeterian",
+    "synonyms": [
+      "Vegeterian",
+      "Vegetebles",
+      "7chich"
+    ]
+  }
+]

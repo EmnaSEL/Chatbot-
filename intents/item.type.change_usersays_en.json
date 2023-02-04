@@ -1,0 +1,67 @@
+[
+  {
+    "id": "e6bbb74f-7bc0-4394-a498-629eb2556e62",
+    "data": [
+      {
+        "text": "change to ",
+        "userDefined": false
+      },
+      {
+        "text": "margharita",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c7c9fcc-ea9b-4d18-9bcd-7630335b23de",
+    "data": [
+      {
+        "text": "can i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "neptune",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": " instead ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03cb82fb-2160-4267-a49b-51142f2f4432",
+    "data": [
+      {
+        "text": "actually can i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "margarita",
+        "meta": "@pizza-type",
+        "alias": "type",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
